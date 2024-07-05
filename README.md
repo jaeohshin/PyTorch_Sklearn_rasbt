@@ -1,4 +1,4 @@
-I am studying 'Machine learning with Pytorch and Scikit-learn' by Sebastian Rasika.
+I am studying 'Machine learning with Pytorch and Scikit-learn' by Sebastian Rasika. 2024 July. 4th -- 
 
 Link: 
 - https://github.com/rasbt/machine-learning-book/tree/main
